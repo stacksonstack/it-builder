@@ -7,7 +7,11 @@ const AboutPage = () => (
     <SEO title="Home" />
     <h1>Hi from stacey and anthony</h1>
     <h2>Firsts of firsts</h2>
-    <p>Stacey's first gatsby project and first shared repo and first gatsby page.......🤓 </p>
+    <p>
+      Stacey's first gatsby project and first shared repo and first gatsby
+      page.......🤓{" "}
+    </p>
+    <p>Didnt quite go as expected..</p>
   </Layout>
 )
 
